@@ -29,6 +29,8 @@
 		97A7834F211E93B800A1E729 /* UIVisualEffectViewX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97A78345211E93B800A1E729 /* UIVisualEffectViewX.swift */; };
 		97A78350211E93B800A1E729 /* UISliderX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97A78346211E93B800A1E729 /* UISliderX.swift */; };
 		97A78352211E9FB900A1E729 /* FloatingActionButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97A78351211E9FB900A1E729 /* FloatingActionButton.swift */; };
+		97CE9D252133AD840041C088 /* Screen Shot 2018-08-22 at 1.29.16 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 97CE9D232133AD830041C088 /* Screen Shot 2018-08-22 at 1.29.16 AM.png */; };
+		97CE9D262133AD840041C088 /* Screen Shot 2018-08-22 at 1.51.22 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 97CE9D242133AD840041C088 /* Screen Shot 2018-08-22 at 1.51.22 AM.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,6 +58,8 @@
 		97A78345211E93B800A1E729 /* UIVisualEffectViewX.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIVisualEffectViewX.swift; sourceTree = "<group>"; };
 		97A78346211E93B800A1E729 /* UISliderX.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UISliderX.swift; sourceTree = "<group>"; };
 		97A78351211E9FB900A1E729 /* FloatingActionButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FloatingActionButton.swift; sourceTree = "<group>"; };
+		97CE9D232133AD830041C088 /* Screen Shot 2018-08-22 at 1.29.16 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2018-08-22 at 1.29.16 AM.png"; sourceTree = "<group>"; };
+		97CE9D242133AD840041C088 /* Screen Shot 2018-08-22 at 1.51.22 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2018-08-22 at 1.51.22 AM.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -159,6 +163,8 @@
 		97CE9D222133AD390041C088 /* Screenshots */ = {
 			isa = PBXGroup;
 			children = (
+				97CE9D232133AD830041C088 /* Screen Shot 2018-08-22 at 1.29.16 AM.png */,
+				97CE9D242133AD840041C088 /* Screen Shot 2018-08-22 at 1.51.22 AM.png */,
 			);
 			path = Screenshots;
 			sourceTree = "<group>";
@@ -221,9 +227,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				97CE9D252133AD840041C088 /* Screen Shot 2018-08-22 at 1.29.16 AM.png in Resources */,
 				978BC2FD211FF7C9003AA53C /* Ubuntu-Regular.ttf in Resources */,
 				97A782F6211E873A00A1E729 /* LaunchScreen.storyboard in Resources */,
 				97A782F3211E873A00A1E729 /* Assets.xcassets in Resources */,
+				97CE9D262133AD840041C088 /* Screen Shot 2018-08-22 at 1.51.22 AM.png in Resources */,
 				97A782EC211E873800A1E729 /* Main.storyboard in Resources */,
 				978BC2FF211FFE16003AA53C /* Oxygen-Light.ttf in Resources */,
 			);
