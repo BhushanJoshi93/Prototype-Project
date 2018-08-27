@@ -88,6 +88,7 @@
 		97A782DF211E873800A1E729 /* Prototype Project */ = {
 			isa = PBXGroup;
 			children = (
+				97CE9D222133AD390041C088 /* Screenshots */,
 				97A782FD211E92FC00A1E729 /* Resources */,
 				97A782F7211E873A00A1E729 /* Info.plist */,
 				97A782E2211E873800A1E729 /* Model */,
@@ -153,6 +154,13 @@
 				97A78346211E93B800A1E729 /* UISliderX.swift */,
 			);
 			path = DesignableX;
+			sourceTree = "<group>";
+		};
+		97CE9D222133AD390041C088 /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Screenshots;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
