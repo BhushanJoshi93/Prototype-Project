@@ -9,15 +9,15 @@ import UIKit
 class Model {
     var title = ""
     var subTitle = ""
-    var image: UIImage?
-    var data1 = ""
-    var data2 = ""
+    var image: [UIImage?]
+    var time = ""
+    var clock = ""
     
-    init(title: String, subTitle: String, image: UIImage?, data1: String, data2: String) {
+    init(title: String, subTitle: String, image: [UIImage?], time: String, clock: String) {
         self.title = title
         self.subTitle = subTitle
         self.image = image
-        self.data1 = data1
-        self.data2 = data2
+        self.time = time
+        self.clock = clock
     }
 }
